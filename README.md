@@ -9,7 +9,8 @@
 
 
 
-This is the results page.
+<center>This is the results page.</center>
+
 <img src = "result_page.PNG" height = 400>
 
 
