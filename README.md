@@ -7,7 +7,8 @@ BMI calculator App based on Flutter.
 <center>This is the home page.</center>
 
 
-<img src = "result_page.PNG" height = 400>
 
+
+<img src = "result_page.PNG" height = 400>
 
 This is the results page.
